@@ -1,0 +1,90 @@
+.container{
+padding: 1em;
+padding-top: 0%;
+}
+li, h4{
+    
+    color: white;
+    display: inline;
+}
+header{
+    margin: 1em;
+    padding: 0.5em;
+    background-color: #414141;
+}
+
+h4{
+    padding-left: 6em;
+    font-family: helvetica neue,Helvetica,Arial,sans-serif;
+
+}
+span{
+    
+    position: absolute;
+    padding-left: 40em;
+    color: #fff;
+    
+}
+.tree{
+    font-family: helvetica neue,Helvetica,Arial,sans-serif;
+}
+a{
+    color: #fff;
+    padding: 1em;
+}
+h1{
+    font-family: helvetica neue,Helvetica,Arial,sans-serif;
+    padding-left: 3em;
+    
+
+}
+           
+.input{
+    position: absolute;
+    margin-left: 19em;
+    margin-top: -17em;
+    
+
+}
+.input1{
+    background-color: rgba(255,255,255,.8);
+}
+.input2{
+    color: #fff;
+    background-color: red;
+}
+.para{
+    text-align:  center;
+    padding: 2em;
+}
+.para2{
+    padding-left: 0%;
+}
+
+.end{
+    display:flex;
+    text-align: left;
+}
+.img1, .img2{
+    padding-left: 8em;
+}
+
+
+footer {
+    
+    font-family: helvetica neue,Helvetica,Arial,sans-serif;
+    font-weight: 400;
+    
+}
+.img3{
+    padding-left: 40em;
+    padding-top: 1.5em;
+    
+}
+.last{
+    background-color: #545454;
+}
+.footer{
+    color: #545454;
+    display: flex;
+}
